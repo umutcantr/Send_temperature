@@ -1,5 +1,5 @@
-/* Send the current temperature via sms
-   Made by Umutcan Genç            */
+/* Send the current temperature via sms.For better lightweight program gpıo and adc parts written in avr-c.
+   Made by Umutcan Genç                                                                                       */
 #include<avr/io.h>  
 #include<stdio.h>
 #include<string.h>
